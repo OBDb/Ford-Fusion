@@ -1,2 +1,7 @@
-{ "commands": []
+{ "commands": [
+  { "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5,
+  "signals": [
+    {"id": "FUSION_ODO", "path": "Trips", "fmt": {"bix": 0, "len": 24, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+  ]}
+]
 }
