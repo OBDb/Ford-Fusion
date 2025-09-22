@@ -21,6 +21,7 @@ supported_commands_by_ecu:
   - 0121:MIL_DIST
   - 0123:FRP
   - 0124:LAMBDA11_WIDE,O2S11_WIDE
+  - 012C:EGR_PCT
   - 012E:EVAP_PCT
   - 012F:FLI
   - 0130:WARM_UPS
