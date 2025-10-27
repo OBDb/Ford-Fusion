@@ -1,21 +1,21 @@
 { "commands": [
-{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2813"}, "freq": 15, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2813"}, "freq": 15, "dbgfilter": { "to": 2018, "from": 2021 },
   "signals": [
     {"id": "FUSION_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2814"}, "freq": 15, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2814"}, "freq": 15, "dbgfilter": { "to": 2018, "from": 2021 },
   "signals": [
     {"id": "FUSION_TP_FR", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2815"}, "freq": 15, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2815"}, "freq": 15, "dbgfilter": { "to": 2018, "from": 2021 },
   "signals": [
     {"id": "FUSION_TP_RR", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2816"}, "freq": 15, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2816"}, "freq": 15, "dbgfilter": { "to": 2018, "from": 2021 },
   "signals": [
     {"id": "FUSION_TP_RL", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2019, "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2021 },
   "signals": [
     {"id": "FUSION_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]}
