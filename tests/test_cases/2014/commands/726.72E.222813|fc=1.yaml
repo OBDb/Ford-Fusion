@@ -1,0 +1,17 @@
+command_id: 726.72E.222813|fc=1
+test_cases:
+- expected_values:
+    FUSION_TP_FL: 34.9
+  response: 72E0562281302BA
+- expected_values:
+    FUSION_TP_FL: 35
+  response: 72E0562281302BC
+- expected_values:
+    FUSION_TP_FL: 35.15
+  response: 72E0562281302BF
+- expected_values:
+    FUSION_TP_FL: 35.25
+  response: 72E0562281302C1
+- expected_values:
+    FUSION_TP_FL: 35.5
+  response: 72E0562281302C6
