@@ -15,7 +15,7 @@
   "signals": [
     {"id": "FUSION_TP_RL", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2017, 2018, 2019], "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2017, 2018, 2019] },
   "signals": [
     {"id": "FUSION_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]}
