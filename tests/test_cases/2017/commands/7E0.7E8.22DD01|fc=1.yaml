@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    FUSION_ODO: 118973
+  response: 7E80662DD0101D0BD
