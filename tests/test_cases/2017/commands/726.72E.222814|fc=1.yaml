@@ -1,0 +1,5 @@
+command_id: 726.72E.222814|fc=1
+test_cases:
+- expected_values:
+    FUSION_TP_FR: 33.05
+  response: '72E056228140295'
