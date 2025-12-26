@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     FUSION_ODO: 231383
   response: 7E80662DD010387D7
+- expected_values:
+    FUSION_ODO: 231384
+  response: 7E80662DD010387D8
+- expected_values:
+    FUSION_ODO: 231385
+  response: 7E80662DD010387D9
+- expected_values:
+    FUSION_ODO: 231386
+  response: 7E80662DD010387DA
+- expected_values:
+    FUSION_ODO: 231387
+  response: 7E80662DD010387DB
