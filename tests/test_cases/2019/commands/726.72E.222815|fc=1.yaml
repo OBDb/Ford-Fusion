@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     FUSION_TP_RR: 39.75
   response: 72E05622815031B
+- expected_values:
+    FUSION_TP_RR: 40
+  response: '72E056228150320'
+- expected_values:
+    FUSION_TP_RR: 40.25
+  response: '72E056228150325'
