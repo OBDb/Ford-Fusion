@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)"
+
 generations:
   - name: "First Generation (North America)"
     start_year: 2006
