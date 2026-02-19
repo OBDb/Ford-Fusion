@@ -39,8 +39,4 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 0147:TP_B
   - 0149:APP_D
-  - 014A:APP_E
-  - 014C:TAC_PCT
-  - 0151:FUEL_TYP
-  - 0154:EVAP_VP_WIDE
   - 7E0.7E8.22DD01|fc=1:FUSION_ODO
