@@ -1,0 +1,9 @@
+model_year: 2015
+supported_commands_by_ecu:
+  "726":
+  - 726.72E.222813|fc=1:FUSION_TP_FL
+  - 726.72E.222814|fc=1:FUSION_TP_FR
+  - 726.72E.222815|fc=1:FUSION_TP_RR
+  - 726.72E.222816|fc=1:FUSION_TP_RL
+  "7E0":
+  - 7E0.7E8.22DD01|fc=1:FUSION_ODO
