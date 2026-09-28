@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" }
+  ],
+  "commands": [
 { "hdr": "726", "rax": "72E", "fcm1": true, "cmd": {"22": "2813"}, "freq": 15, "dbgfilter": { "to": 2012, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "FUSION_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
