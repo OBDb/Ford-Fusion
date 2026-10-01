@@ -7,11 +7,26 @@ test_cases:
     FUSION_ENG_LOAD_ACT: 13.72549
   response: 7E80562F4430023
 - expected_values:
+    FUSION_ENG_LOAD_ACT: 18.03922
+  response: 7E80562F443002E
+- expected_values:
     FUSION_ENG_LOAD_ACT: 22.7451
   response: 7E80562F443003A
+- expected_values:
+    FUSION_ENG_LOAD_ACT: 23.52941
+  response: 7E80562F443003C
 - expected_values:
     FUSION_ENG_LOAD_ACT: 27.05882
   response: 7E80562F4430045
 - expected_values:
     FUSION_ENG_LOAD_ACT: 30.19608
   response: 7E80562F443004D
+- expected_values:
+    FUSION_ENG_LOAD_ACT: 32.54902
+  response: 7E80562F4430053
+- expected_values:
+    FUSION_ENG_LOAD_ACT: 36.47059
+  response: 7E80562F443005D
+- expected_values:
+    FUSION_ENG_LOAD_ACT: 38.43137
+  response: 7E80562F4430062

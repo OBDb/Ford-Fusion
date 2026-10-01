@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FUSION_12V_SOC: 55
   response: '72E0462402837'
+- expected_values:
+    FUSION_12V_SOC: 56
+  response: '72E0462402838'
+- expected_values:
+    FUSION_12V_SOC: 57
+  response: '72E0462402839'

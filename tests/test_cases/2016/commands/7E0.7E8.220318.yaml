@@ -7,5 +7,8 @@ test_cases:
     FUSION_VCT_INT_ACT: 0.1875
   response: '7E8056203180003'
 - expected_values:
+    FUSION_VCT_INT_ACT: -0.125
+  response: 7E805620318FFFE
+- expected_values:
     FUSION_VCT_INT_ACT: -0.0625
   response: 7E805620318FFFF
