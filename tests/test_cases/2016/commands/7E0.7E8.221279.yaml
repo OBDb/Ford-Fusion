@@ -4,17 +4,5 @@ test_cases:
     FUSION_IAT_SENS_V: 1.78886
   response: 7E805621279016E
 - expected_values:
-    FUSION_IAT_SENS_V: 1.81818
-  response: '7E8056212790174'
-- expected_values:
-    FUSION_IAT_SENS_V: 1.95992
-  response: '7E8056212790191'
-- expected_values:
-    FUSION_IAT_SENS_V: 2.05767
-  response: 7E80562127901A5
-- expected_values:
-    FUSION_IAT_SENS_V: 2.12121
-  response: 7E80562127901B2
-- expected_values:
-    FUSION_IAT_SENS_V: 2.13099
-  response: 7E80562127901B4
+    FUSION_IAT_SENS_V: 2.23363
+  response: 7E80562127901C9

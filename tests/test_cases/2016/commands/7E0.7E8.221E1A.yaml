@@ -1,11 +1,26 @@
 command_id: 7E0.7E8.221E1A
 test_cases:
 - expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 418
+  response: 7E805621E1A00D1
+- expected_values:
     FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 424
   response: 7E805621E1A00D4
 - expected_values:
     FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 430
   response: 7E805621E1A00D7
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 482
+  response: 7E805621E1A00F1
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 522
+  response: 7E805621E1A0105
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 554
+  response: 7E805621E1A0115
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 610
+  response: 7E805621E1A0131
 - expected_values:
     FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 688
   response: 7E805621E1A0158

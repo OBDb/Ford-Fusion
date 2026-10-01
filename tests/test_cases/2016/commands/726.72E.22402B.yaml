@@ -1,11 +1,32 @@
 command_id: 726.72E.22402B
 test_cases:
 - expected_values:
+    FUSION_VEH_BAT_CURRENT: -8
+  response: 72E0462402B77
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: -4
+  response: 72E0462402B7B
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: -2
+  response: 72E0462402B7D
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: -1
+  response: 72E0462402B7E
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: 2
+  response: 72E0462402B81
+- expected_values:
     FUSION_VEH_BAT_CURRENT: 3
   response: 72E0462402B82
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: 7
+  response: 72E0462402B86
 - expected_values:
     FUSION_VEH_BAT_CURRENT: 10
   response: 72E0462402B89
 - expected_values:
     FUSION_VEH_BAT_CURRENT: 12
   response: 72E0462402B8B
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: 13
+  response: 72E0462402B8C

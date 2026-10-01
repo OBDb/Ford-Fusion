@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FUSION_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
+- expected_values:
+    FUSION_IGN_CORR_CYL1: -2.84766
+  response: 7E8056203ECFA4E
+- expected_values:
+    FUSION_IGN_CORR_CYL1: -0.75
+  response: 7E8056203ECFE80

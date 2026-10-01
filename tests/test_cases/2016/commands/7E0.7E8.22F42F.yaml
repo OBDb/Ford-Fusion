@@ -4,6 +4,15 @@ test_cases:
     FUSION_FLI_7E0: 81.17647
   response: 7E80462F42FCF
 - expected_values:
+    FUSION_FLI_7E0: 82.7451
+  response: 7E80462F42FD3
+- expected_values:
+    FUSION_FLI_7E0: 85.09804
+  response: 7E80462F42FD9
+- expected_values:
+    FUSION_FLI_7E0: 87.05882
+  response: 7E80462F42FDE
+- expected_values:
     FUSION_FLI_7E0: 89.80392
   response: 7E80462F42FE5
 - expected_values:

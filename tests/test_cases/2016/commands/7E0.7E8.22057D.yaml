@@ -4,11 +4,20 @@ test_cases:
     FUSION_AAT_ALT: 33
   response: 7E80462057D92
 - expected_values:
+    FUSION_AAT_ALT: 34
+  response: 7E80462057D94
+- expected_values:
     FUSION_AAT_ALT: 35
   response: 7E80462057D96
 - expected_values:
     FUSION_AAT_ALT: 36
   response: 7E80462057D98
 - expected_values:
+    FUSION_AAT_ALT: 37
+  response: 7E80462057D9A
+- expected_values:
     FUSION_AAT_ALT: 38
   response: 7E80462057D9C
+- expected_values:
+    FUSION_AAT_ALT: 40
+  response: 7E80462057DA0

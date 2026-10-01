@@ -4,17 +4,5 @@ test_cases:
     FUSION_ENG_LOAD_PCT: 18.03922
   response: 7E80462F4042E
 - expected_values:
-    FUSION_ENG_LOAD_PCT: 27.05882
-  response: 7E80462F40445
-- expected_values:
-    FUSION_ENG_LOAD_PCT: 32.15686
-  response: 7E80462F40452
-- expected_values:
-    FUSION_ENG_LOAD_PCT: 36.07843
-  response: 7E80462F4045C
-- expected_values:
-    FUSION_ENG_LOAD_PCT: 37.64706
-  response: 7E80462F40460
-- expected_values:
-    FUSION_ENG_LOAD_PCT: 38.82353
-  response: 7E80462F40463
+    FUSION_ENG_LOAD_PCT: 45.4902
+  response: 7E80462F40474

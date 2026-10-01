@@ -4,17 +4,8 @@ test_cases:
     FUSION_AC_P_SENS_V: 1.5625
   response: '7E8056298000640'
 - expected_values:
-    FUSION_AC_P_SENS_V: 1.58887
-  response: 7E805629800065B
-- expected_values:
-    FUSION_AC_P_SENS_V: 1.64746
-  response: '7E8056298000697'
-- expected_values:
-    FUSION_AC_P_SENS_V: 1.68652
-  response: 7E80562980006BF
+    FUSION_AC_P_SENS_V: 1.72461
+  response: 7E80562980006E6
 - expected_values:
     FUSION_AC_P_SENS_V: 2.07227
   response: 7E805629800084A
-- expected_values:
-    FUSION_AC_P_SENS_V: 2.09277
-  response: 7E805629800085F

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FUSION_DIST_DTC_CLR: 1967
   response: 7E80562F43107AF
+- expected_values:
+    FUSION_DIST_DTC_CLR: 1968
+  response: 7E80562F43107B0

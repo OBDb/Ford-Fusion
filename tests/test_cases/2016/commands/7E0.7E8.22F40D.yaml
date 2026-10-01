@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
+    FUSION_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
     FUSION_VSS: 1
   response: 7E80462F40D01
 - expected_values:
@@ -10,11 +13,20 @@ test_cases:
     FUSION_VSS: 8
   response: 7E80462F40D08
 - expected_values:
+    FUSION_VSS: 10
+  response: 7E80462F40D0A
+- expected_values:
+    FUSION_VSS: 33
+  response: 7E80462F40D21
+- expected_values:
     FUSION_VSS: 36
   response: 7E80462F40D24
 - expected_values:
     FUSION_VSS: 37
   response: 7E80462F40D25
+- expected_values:
+    FUSION_VSS: 39
+  response: 7E80462F40D27
 - expected_values:
     FUSION_VSS: 45
   response: 7E80462F40D2D

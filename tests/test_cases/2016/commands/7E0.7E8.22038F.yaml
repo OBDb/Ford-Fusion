@@ -4,17 +4,8 @@ test_cases:
     FUSION_ECT: 68.42188
   response: 7E80562038F111B
 - expected_values:
-    FUSION_ECT: 74.9375
-  response: 7E80562038F12BC
+    FUSION_ECT: 93.03125
+  response: 7E80562038F1742
 - expected_values:
-    FUSION_ECT: 77.92188
-  response: 7E80562038F137B
-- expected_values:
-    FUSION_ECT: 81.26562
-  response: 7E80562038F1451
-- expected_values:
-    FUSION_ECT: 83.42188
-  response: 7E80562038F14DB
-- expected_values:
-    FUSION_ECT: 86.01562
-  response: 7E80562038F1581
+    FUSION_ECT: 95.73438
+  response: 7E80562038F17EF
