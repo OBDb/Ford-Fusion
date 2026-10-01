@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    FUSION_GRILL_SHUT_DC: 56.07843
+  response: 7E8046207078F
+- expected_values:
+    FUSION_GRILL_SHUT_DC: 61.17647
+  response: 7E8046207079C
+- expected_values:
+    FUSION_GRILL_SHUT_DC: 63.92157
+  response: 7E804620707A3
+- expected_values:
+    FUSION_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

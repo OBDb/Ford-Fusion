@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    FUSION_DIST_DTC_CLR: 7107
+  response: 7E80562F4311BC3
+- expected_values:
+    FUSION_DIST_DTC_CLR: 7108
+  response: 7E80562F4311BC4
+- expected_values:
+    FUSION_DIST_DTC_CLR: 7109
+  response: 7E80562F4311BC5
+- expected_values:
+    FUSION_DIST_DTC_CLR: 7110
+  response: 7E80562F4311BC6
+- expected_values:
+    FUSION_DIST_DTC_CLR: 7111
+  response: 7E80562F4311BC7

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    FUSION_AC_P: 113.99967
+  response: '7E8056203930189'
+- expected_values:
+    FUSION_AC_P: 147.64843
+  response: 7E80562039301FD
+- expected_values:
+    FUSION_AC_P: 148.80873
+  response: '7E8056203930201'

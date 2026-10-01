@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22031A
+test_cases:
+- expected_values:
+    FUSION_VCT_INT_ERR: 0
+  response: 7E80562031A0000
+- expected_values:
+    FUSION_VCT_INT_ERR: -2.625
+  response: 7E80562031AFFD6
+- expected_values:
+    FUSION_VCT_INT_ERR: -0.0625
+  response: 7E80562031AFFFF
