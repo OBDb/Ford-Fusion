@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    FUSION_IAT_ALT2: 42
+  response: 7E80462F40F52
+- expected_values:
+    FUSION_IAT_ALT2: 43
+  response: 7E80462F40F53
+- expected_values:
+    FUSION_IAT_ALT2: 45
+  response: 7E80462F40F55
+- expected_values:
+    FUSION_IAT_ALT2: 49
+  response: 7E80462F40F59

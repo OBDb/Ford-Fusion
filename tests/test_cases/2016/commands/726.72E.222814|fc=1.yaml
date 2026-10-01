@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FUSION_TP_FR: 37
   response: 72E0562281402E4
+- expected_values:
+    FUSION_TP_FR: 40.75
+  response: 72E05622814032F
+- expected_values:
+    FUSION_TP_FR: 41.5
+  response: 72E05622814033E
