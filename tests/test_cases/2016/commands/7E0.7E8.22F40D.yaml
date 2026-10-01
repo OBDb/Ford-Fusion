@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    FUSION_VSS: 1
+  response: 7E80462F40D01
+- expected_values:
+    FUSION_VSS: 5
+  response: 7E80462F40D05
+- expected_values:
+    FUSION_VSS: 8
+  response: 7E80462F40D08
+- expected_values:
+    FUSION_VSS: 36
+  response: 7E80462F40D24
+- expected_values:
+    FUSION_VSS: 37
+  response: 7E80462F40D25
+- expected_values:
+    FUSION_VSS: 45
+  response: 7E80462F40D2D

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    FUSION_KS1_RAW: 171
+  response: 7E80562040300AB
+- expected_values:
+    FUSION_KS1_RAW: 187
+  response: 7E80562040300BB
+- expected_values:
+    FUSION_KS1_RAW: 210
+  response: 7E80562040300D2
+- expected_values:
+    FUSION_KS1_RAW: 227
+  response: 7E80562040300E3
+- expected_values:
+    FUSION_KS1_RAW: 294
+  response: '7E8056204030126'
+- expected_values:
+    FUSION_KS1_RAW: 310
+  response: '7E8056204030136'

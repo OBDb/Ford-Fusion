@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221126
+test_cases:
+- expected_values:
+    FUSION_ERT: 52
+  response: '7E80462112634'
+- expected_values:
+    FUSION_ERT: 86
+  response: '7E80462112656'
+- expected_values:
+    FUSION_ERT: 116
+  response: '7E80462112674'
+- expected_values:
+    FUSION_ERT: 147
+  response: '7E80462112693'
+- expected_values:
+    FUSION_ERT: 171
+  response: 7E804621126AB
+- expected_values:
+    FUSION_ERT: 203
+  response: 7E804621126CB

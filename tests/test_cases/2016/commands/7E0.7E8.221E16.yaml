@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    FUSION_AXLE_GEAR_RATIO_MEAS: 1.44482
+  response: 7E805621E16171E
+- expected_values:
+    FUSION_AXLE_GEAR_RATIO_MEAS: 1.44556
+  response: 7E805621E161721
+- expected_values:
+    FUSION_AXLE_GEAR_RATIO_MEAS: 1.44604
+  response: 7E805621E161723
+- expected_values:
+    FUSION_AXLE_GEAR_RATIO_MEAS: 4.55957
+  response: 7E805621E1648F4
+- expected_values:
+    FUSION_AXLE_GEAR_RATIO_MEAS: 4.64673
+  response: 7E805621E164A59
+- expected_values:
+    FUSION_AXLE_GEAR_RATIO_MEAS: 5
+  response: 7E805621E165000
