@@ -7,8 +7,14 @@ test_cases:
     FUSION_ACC_POS: 3.5
   response: 7E80462032B07
 - expected_values:
+    FUSION_ACC_POS: 9
+  response: 7E80462032B12
+- expected_values:
     FUSION_ACC_POS: 13
   response: 7E80462032B1A
+- expected_values:
+    FUSION_ACC_POS: 16
+  response: 7E80462032B20
 - expected_values:
     FUSION_ACC_POS: 17
   response: 7E80462032B22
@@ -18,3 +24,6 @@ test_cases:
 - expected_values:
     FUSION_ACC_POS: 20.5
   response: 7E80462032B29
+- expected_values:
+    FUSION_ACC_POS: 42
+  response: 7E80462032B54

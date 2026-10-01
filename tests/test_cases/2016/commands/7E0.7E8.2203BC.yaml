@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FUSION_VCT_INT_DES: 0
   response: 7E8056203BC0000
+- expected_values:
+    FUSION_VCT_INT_DES: -24.3125
+  response: 7E8056203BCFE7B
+- expected_values:
+    FUSION_VCT_INT_DES: -5.25
+  response: 7E8056203BCFFAC

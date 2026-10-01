@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220393
 test_cases:
 - expected_values:
-    FUSION_AC_P: 143.00722
-  response: 7E80562039301ED
+    FUSION_AC_P: 141.26677
+  response: 7E80562039301E7
 - expected_values:
-    FUSION_AC_P: 147.9385
-  response: 7E80562039301FE
+    FUSION_AC_P: 148.22858
+  response: 7E80562039301FF
 - expected_values:
-    FUSION_AC_P: 152.28964
-  response: 7E805620393020D
+    FUSION_AC_P: 148.80873
+  response: '7E8056203930201'

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22038F
 test_cases:
 - expected_values:
+    FUSION_ECT: 45.70312
+  response: 7E80562038F0B6D
+- expected_values:
     FUSION_ECT: 68.42188
   response: 7E80562038F111B
 - expected_values:

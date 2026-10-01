@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2204F7
 test_cases:
 - expected_values:
-    FUSION_GEN_CURRENT: 39.50298
-  response: 7E8056204F709E1
+    FUSION_GEN_CURRENT: 38.94066
+  response: 7E8056204F709BD
 - expected_values:
     FUSION_GEN_CURRENT: 43.6579
   response: 7E8056204F70AEB

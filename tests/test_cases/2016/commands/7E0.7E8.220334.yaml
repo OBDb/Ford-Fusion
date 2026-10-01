@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220334
 test_cases:
 - expected_values:
-    FUSION_PCM_CYL_HEAD_T_CORR: 70.59375
-  response: 7E80562033411A6
+    FUSION_PCM_CYL_HEAD_T_CORR: 45.67188
+  response: 7E8056203340B6B
 - expected_values:
     FUSION_PCM_CYL_HEAD_T_CORR: 87.78125
   response: 7E80562033415F2

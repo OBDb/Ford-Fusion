@@ -4,5 +4,5 @@ test_cases:
     FUSION_ERT: 40
   response: '7E80462112628'
 - expected_values:
-    FUSION_ERT: 244
-  response: 7E804621126F4
+    FUSION_ERT: 255
+  response: 7E804621126FF

@@ -4,8 +4,8 @@ test_cases:
     FUSION_CAT_TEMP: 293.5
   response: 7E80562F43C0D07
 - expected_values:
-    FUSION_CAT_TEMP: 598.9
-  response: 7E80562F43C18F5
+    FUSION_CAT_TEMP: 445.5
+  response: 7E80562F43C12F7
 - expected_values:
-    FUSION_CAT_TEMP: 668.7
-  response: 7E80562F43C1BAF
+    FUSION_CAT_TEMP: 752.5
+  response: 7E80562F43C1EF5

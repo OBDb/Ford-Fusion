@@ -13,6 +13,9 @@ test_cases:
     FUSION_VCT_INT_ERR: 0.25
   response: 7E80562031A0004
 - expected_values:
+    FUSION_VCT_INT_ERR: 0.5
+  response: 7E80562031A0008
+- expected_values:
     FUSION_VCT_INT_ERR: -0.25
   response: 7E80562031AFFFC
 - expected_values:

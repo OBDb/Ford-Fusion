@@ -4,5 +4,5 @@ test_cases:
     FUSION_AAT_V: 1.90616
   response: 7E8056203BA0186
 - expected_values:
-    FUSION_AAT_V: 2.31183
-  response: 7E8056203BA01D9
+    FUSION_AAT_V: 2.44379
+  response: 7E8056203BA01F4
