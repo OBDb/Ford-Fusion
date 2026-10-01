@@ -4,17 +4,8 @@ test_cases:
     FUSION_IGN_TIM_CYL1: 2.5
   response: 7E80562116B000A
 - expected_values:
-    FUSION_IGN_TIM_CYL1: 6
-  response: 7E80562116B0018
-- expected_values:
-    FUSION_IGN_TIM_CYL1: 19
-  response: 7E80562116B004C
-- expected_values:
-    FUSION_IGN_TIM_CYL1: 38.75
-  response: 7E80562116B009B
-- expected_values:
-    FUSION_IGN_TIM_CYL1: 42.25
-  response: 7E80562116B00A9
+    FUSION_IGN_TIM_CYL1: -7.5
+  response: 7E80562116BFFE2
 - expected_values:
     FUSION_IGN_TIM_CYL1: -1.5
   response: 7E80562116BFFFA

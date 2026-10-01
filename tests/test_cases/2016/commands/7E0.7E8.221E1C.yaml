@@ -4,17 +4,8 @@ test_cases:
     FUSION_TOT_7E0: 60.375
   response: 7E805621E1C03C6
 - expected_values:
-    FUSION_TOT_7E0: 61.625
-  response: 7E805621E1C03DA
-- expected_values:
-    FUSION_TOT_7E0: 62.5
-  response: 7E805621E1C03E8
-- expected_values:
-    FUSION_TOT_7E0: 63.4375
-  response: 7E805621E1C03F7
-- expected_values:
-    FUSION_TOT_7E0: 63.875
-  response: 7E805621E1C03FE
+    FUSION_TOT_7E0: 63.9375
+  response: 7E805621E1C03FF
 - expected_values:
     FUSION_TOT_7E0: 64.25
   response: 7E805621E1C0404

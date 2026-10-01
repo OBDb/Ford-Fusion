@@ -4,17 +4,8 @@ test_cases:
     FUSION_CL_LC: 0.01501
   response: 7E8056203BD007B
 - expected_values:
-    FUSION_CL_LC: 0.01648
-  response: 7E8056203BD0087
-- expected_values:
-    FUSION_CL_LC: 0.01709
-  response: 7E8056203BD008C
-- expected_values:
-    FUSION_CL_LC: 0.0177
-  response: 7E8056203BD0091
-- expected_values:
-    FUSION_CL_LC: -0.0127
-  response: 7E8056203BDFF98
+    FUSION_CL_LC: -0.01477
+  response: 7E8056203BDFF87
 - expected_values:
     FUSION_CL_LC: -0.00586
   response: 7E8056203BDFFD0

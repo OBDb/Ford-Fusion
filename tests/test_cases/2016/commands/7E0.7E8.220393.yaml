@@ -4,17 +4,8 @@ test_cases:
     FUSION_AC_P: 143.00722
   response: 7E80562039301ED
 - expected_values:
-    FUSION_AC_P: 145.6179
-  response: 7E80562039301F6
+    FUSION_AC_P: 147.9385
+  response: 7E80562039301FE
 - expected_values:
-    FUSION_AC_P: 153.15986
-  response: '7E8056203930210'
-- expected_values:
-    FUSION_AC_P: 161.28198
-  response: 7E805620393022C
-- expected_values:
-    FUSION_AC_P: 199.28187
-  response: 7E80562039302AF
-- expected_values:
-    FUSION_AC_P: 205.9536
-  response: 7E80562039302C6
+    FUSION_AC_P: 152.28964
+  response: 7E805620393020D

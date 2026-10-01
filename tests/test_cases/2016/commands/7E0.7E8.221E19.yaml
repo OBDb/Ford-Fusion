@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.221E19
 test_cases:
 - expected_values:
+    FUSION_PCM_CMD_TRANS_GEAR_RATIO: 0
+  response: 7E805621E190000
+- expected_values:
     FUSION_PCM_CMD_TRANS_GEAR_RATIO: 1.44582
   response: 7E805621E191722
+- expected_values:
+    FUSION_PCM_CMD_TRANS_GEAR_RATIO: 1.91189
+  response: 7E805621E191E97
 - expected_values:
     FUSION_PCM_CMD_TRANS_GEAR_RATIO: 4.58405
   response: 7E805621E194958

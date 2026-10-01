@@ -4,17 +4,8 @@ test_cases:
     FUSION_PCM_CYL_HEAD_T_CORR: 70.59375
   response: 7E80562033411A6
 - expected_values:
-    FUSION_PCM_CYL_HEAD_T_CORR: 74.59375
-  response: 7E80562033412A6
+    FUSION_PCM_CYL_HEAD_T_CORR: 87.78125
+  response: 7E80562033415F2
 - expected_values:
-    FUSION_PCM_CYL_HEAD_T_CORR: 77.54688
-  response: '7E8056203341363'
-- expected_values:
-    FUSION_PCM_CYL_HEAD_T_CORR: 80.76562
-  response: '7E8056203341431'
-- expected_values:
-    FUSION_PCM_CYL_HEAD_T_CORR: 83.375
-  response: 7E80562033414D8
-- expected_values:
-    FUSION_PCM_CYL_HEAD_T_CORR: 85.9375
-  response: 7E805620334157C
+    FUSION_PCM_CYL_HEAD_T_CORR: 92.70312
+  response: 7E805620334172D

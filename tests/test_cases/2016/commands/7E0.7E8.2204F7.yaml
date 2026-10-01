@@ -1,20 +1,14 @@
 command_id: 7E0.7E8.2204F7
 test_cases:
 - expected_values:
-    FUSION_GEN_CURRENT: 43.25178
-  response: 7E8056204F70AD1
+    FUSION_GEN_CURRENT: 39.50298
+  response: 7E8056204F709E1
 - expected_values:
-    FUSION_GEN_CURRENT: 44.56386
-  response: 7E8056204F70B25
+    FUSION_GEN_CURRENT: 43.6579
+  response: 7E8056204F70AEB
 - expected_values:
-    FUSION_GEN_CURRENT: 44.70444
-  response: 7E8056204F70B2E
-- expected_values:
-    FUSION_GEN_CURRENT: 46.65694
-  response: 7E8056204F70BAB
+    FUSION_GEN_CURRENT: 48.422
+  response: 7E8056204F70C1C
 - expected_values:
     FUSION_GEN_CURRENT: 58.8093
   response: 7E8056204F70EB5
-- expected_values:
-    FUSION_GEN_CURRENT: 58.84054
-  response: 7E8056204F70EB7
