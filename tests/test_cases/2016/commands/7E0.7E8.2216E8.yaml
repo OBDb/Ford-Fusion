@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSION_CMD_GEN_DUTY: 0
   response: 7E8056216E80000
+- expected_values:
+    FUSION_CMD_GEN_DUTY: 56.57187
+  response: 7E8056216E84868

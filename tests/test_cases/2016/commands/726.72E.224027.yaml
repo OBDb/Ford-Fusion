@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSION_12V_AGE: 16824
   response: 72E0562402702BD
+- expected_values:
+    FUSION_12V_AGE: 16848
+  response: 72E0562402702BE

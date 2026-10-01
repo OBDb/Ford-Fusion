@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     FUSION_12V_V: 13.8
   response: 72E0462402A9C
+- expected_values:
+    FUSION_12V_V: 14
+  response: 72E0462402AA0
+- expected_values:
+    FUSION_12V_V: 14.1
+  response: 72E0462402AA2
+- expected_values:
+    FUSION_12V_V: 14.2
+  response: 72E0462402AA4

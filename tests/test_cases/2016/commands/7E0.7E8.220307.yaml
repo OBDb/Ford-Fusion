@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220307
 test_cases:
 - expected_values:
+    FUSION_LPFP_DUTY: 37.01172
+  response: 7E8056203072F60
+- expected_values:
     FUSION_LPFP_DUTY: 38.13171
   response: 7E80562030730CF
 - expected_values:
