@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22038B
+test_cases:
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: 0.09375
+  response: 7E80462038B06
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.26562
+  response: 7E80462038BEF
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.23438
+  response: 7E80462038BF1
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.10938
+  response: 7E80462038BF9
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.07812
+  response: 7E80462038BFB
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.01562
+  response: 7E80462038BFF

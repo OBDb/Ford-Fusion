@@ -1,0 +1,8 @@
+command_id: 726.72E.2241E8
+test_cases:
+- expected_values:
+    FUSION_VEH_BAT_B_V: 13.6
+  response: 72E046241E898
+- expected_values:
+    FUSION_VEH_BAT_B_V: 13.7
+  response: 72E046241E89A

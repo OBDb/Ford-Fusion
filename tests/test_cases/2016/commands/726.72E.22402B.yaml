@@ -1,0 +1,11 @@
+command_id: 726.72E.22402B
+test_cases:
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: 3
+  response: 72E0462402B82
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: 10
+  response: 72E0462402B89
+- expected_values:
+    FUSION_VEH_BAT_CURRENT: 12
+  response: 72E0462402B8B
