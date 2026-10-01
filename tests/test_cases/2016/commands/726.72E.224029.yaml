@@ -1,5 +1,8 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
+    FUSION_12V_T: 34
+  response: 72E046240294A
+- expected_values:
     FUSION_12V_T: 51
   response: 72E046240295B

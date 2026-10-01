@@ -4,8 +4,8 @@ test_cases:
     FUSION_EVAP_RAW: 2352
   response: 7E80562038E0930
 - expected_values:
-    FUSION_EVAP_RAW: 2507
-  response: 7E80562038E09CB
-- expected_values:
     FUSION_EVAP_RAW: 2627
   response: 7E80562038E0A43
+- expected_values:
+    FUSION_EVAP_RAW: 2772
+  response: 7E80562038E0AD4

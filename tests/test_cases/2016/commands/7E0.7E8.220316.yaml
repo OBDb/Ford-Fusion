@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FUSION_VCT_INT_DUTY: 0
   response: '7E8056203160000'
+- expected_values:
+    FUSION_VCT_INT_DUTY: 38.58032
+  response: '7E8056203163162'
+- expected_values:
+    FUSION_VCT_INT_DUTY: 41.4856
+  response: 7E805620316351A
