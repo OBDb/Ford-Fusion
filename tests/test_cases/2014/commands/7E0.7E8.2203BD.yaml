@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    FUSION_CL_LC: 0
+  response: 7E8056203BD0000
+- expected_values:
+    FUSION_CL_LC: -0.01501
+  response: 7E8056203BDFF85
+- expected_values:
+    FUSION_CL_LC: -0.00879
+  response: 7E8056203BDFFB8

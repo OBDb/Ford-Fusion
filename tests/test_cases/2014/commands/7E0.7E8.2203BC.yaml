@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203BC
+test_cases:
+- expected_values:
+    FUSION_VCT_INT_DES: 0
+  response: 7E8056203BC0000
+- expected_values:
+    FUSION_VCT_INT_DES: -13.8125
+  response: 7E8056203BCFF23
+- expected_values:
+    FUSION_VCT_INT_DES: -1.875
+  response: 7E8056203BCFFE2
+- expected_values:
+    FUSION_VCT_INT_DES: -0.125
+  response: 7E8056203BCFFFE

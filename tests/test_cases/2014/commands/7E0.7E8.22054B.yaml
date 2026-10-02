@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22054B
+test_cases:
+- expected_values:
+    FUSION_PCM_ENG_OIL_LIFE_REM: 62
+  response: 7E80462054B3E
