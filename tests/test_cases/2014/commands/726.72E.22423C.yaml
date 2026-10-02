@@ -1,0 +1,26 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 0.78125
+  response: 72E0562423C0019
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 1.03125
+  response: 72E0562423C0021
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 2.78125
+  response: 72E0562423C0059
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 4.4375
+  response: 72E0562423C008E
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 5.59375
+  response: 72E0562423C00B3
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 8.15625
+  response: 72E0562423C0105
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 14.5
+  response: 72E0562423C01D0
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: -2.59375
+  response: 72E0562423CFFAD

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    FUSION_TOT_7E0: 37.25
+  response: 7E805621E1C0254
+- expected_values:
+    FUSION_TOT_7E0: 47.8125
+  response: 7E805621E1C02FD
+- expected_values:
+    FUSION_TOT_7E0: 49.75
+  response: 7E805621E1C031C

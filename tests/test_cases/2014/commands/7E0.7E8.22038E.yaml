@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    FUSION_EVAP_RAW: 2367
+  response: 7E80562038E093F
+- expected_values:
+    FUSION_EVAP_RAW: 2527
+  response: 7E80562038E09DF
+- expected_values:
+    FUSION_EVAP_RAW: 2567
+  response: 7E80562038E0A07

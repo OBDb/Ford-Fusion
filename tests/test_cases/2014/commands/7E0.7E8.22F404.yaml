@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 16.86275
+  response: 7E80462F4042B
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 78.82353
+  response: 7E80462F404C9
