@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    FUSION_ETC_ANG_ACT: 1.98242
+  response: 7E80562093C03F7
+- expected_values:
+    FUSION_ETC_ANG_ACT: 2.49805
+  response: 7E80562093C04FF
+- expected_values:
+    FUSION_ETC_ANG_ACT: 3.04883
+  response: 7E80562093C0619
+- expected_values:
+    FUSION_ETC_ANG_ACT: 4.68945
+  response: 7E80562093C0961

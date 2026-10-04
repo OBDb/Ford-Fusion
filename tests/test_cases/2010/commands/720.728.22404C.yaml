@@ -1,0 +1,5 @@
+command_id: 720.728.22404C
+test_cases:
+- expected_values:
+    FUSION_IPC_ODO: 276893.2
+  response: 7280662404C2A4024

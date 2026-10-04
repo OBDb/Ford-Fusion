@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    FUSION_FAN_SPD_DES: 24.04211
+  response: 7E8056203B91EC6
+- expected_values:
+    FUSION_FAN_SPD_DES: 25.77859
+  response: 7E8056203B920FF
+- expected_values:
+    FUSION_FAN_SPD_DES: 25.89456
+  response: 7E8056203B92125
+- expected_values:
+    FUSION_FAN_SPD_DES: 27.62493
+  response: 7E8056203B9235C

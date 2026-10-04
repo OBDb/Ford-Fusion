@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 27.05882
+  response: 7E80462F40445
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 27.45098
+  response: 7E80462F40446
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 37.64706
+  response: 7E80462F40460
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 38.03922
+  response: 7E80462F40461
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 38.43137
+  response: 7E80462F40462
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 38.82353
+  response: 7E80462F40463
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 41.17647
+  response: 7E80462F40469
+- expected_values:
+    FUSION_ENG_LOAD_PCT: 41.56863
+  response: 7E80462F4046A

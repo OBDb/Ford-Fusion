@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    FUSION_RPM: 673.25
+  response: 7E80562F40C0A85
+- expected_values:
+    FUSION_RPM: 677.75
+  response: 7E80562F40C0A97
+- expected_values:
+    FUSION_RPM: 679.75
+  response: 7E80562F40C0A9F
+- expected_values:
+    FUSION_RPM: 681.25
+  response: 7E80562F40C0AA5
+- expected_values:
+    FUSION_RPM: 681.5
+  response: 7E80562F40C0AA6
+- expected_values:
+    FUSION_RPM: 682
+  response: 7E80562F40C0AA8
+- expected_values:
+    FUSION_RPM: 682.75
+  response: 7E80562F40C0AAB
+- expected_values:
+    FUSION_RPM: 683.75
+  response: 7E80562F40C0AAF
+- expected_values:
+    FUSION_RPM: 686.25
+  response: 7E80562F40C0AB9
+- expected_values:
+    FUSION_RPM: 687.25
+  response: 7E80562F40C0ABD
