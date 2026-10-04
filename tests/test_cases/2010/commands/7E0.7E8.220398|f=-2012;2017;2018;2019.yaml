@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220398|f=-2012;2017;2018;2019
+test_cases:
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: 0
+  response: '7E80462039800'
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: 0.03125
+  response: '7E80462039802'
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: 0.04688
+  response: '7E80462039803'
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: 0.10938
+  response: '7E80462039807'
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: 0.125
+  response: '7E80462039808'
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: 0.17188
+  response: 7E8046203980B
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: -0.10938
+  response: 7E804620398F9
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: -0.07812
+  response: 7E804620398FB
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: -0.04688
+  response: 7E804620398FD
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL6_NORM: -0.03125
+  response: 7E804620398FE

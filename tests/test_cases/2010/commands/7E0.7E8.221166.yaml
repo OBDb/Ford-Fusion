@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 11.68213
+  response: 7E8056211660EF4
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 27.67639
+  response: 7E805621166236D
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 28.43628
+  response: '7E8056211662466'
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 46.81091
+  response: 7E8056211663BEB
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 47.19543
+  response: 7E8056211663C69
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 71.73157
+  response: 7E8056211665BD1
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 78.74146
+  response: 7E80562116664CA
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 90.31372
+  response: 7E805621166739A

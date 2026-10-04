@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    FUSION_MAP_V: 1.35742
+  response: 7E805620301056E
+- expected_values:
+    FUSION_MAP_V: 1.74316
+  response: 7E80562030106F9
+- expected_values:
+    FUSION_MAP_V: 1.7627
+  response: 7E805620301070D

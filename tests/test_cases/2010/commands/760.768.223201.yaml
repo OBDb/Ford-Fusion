@@ -1,0 +1,20 @@
+command_id: 760.768.223201
+test_cases:
+- expected_values:
+    FUSION_STEER_ANGLE: 3.5
+  response: '768056232018046'
+- expected_values:
+    FUSION_STEER_ANGLE: 4.85
+  response: '768056232018061'
+- expected_values:
+    FUSION_STEER_ANGLE: 6.15
+  response: 76805623201807B
+- expected_values:
+    FUSION_STEER_ANGLE: 18.9
+  response: 76805623201817A
+- expected_values:
+    FUSION_STEER_ANGLE: 19.4
+  response: '768056232018184'
+- expected_values:
+    FUSION_STEER_ANGLE: 19.9
+  response: 76805623201818E
