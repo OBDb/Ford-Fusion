@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22F40B
+command_id: 7E0.7E8.22F40B|f=-2012
 test_cases:
 - expected_values:
     FUSION_MAP: 4.78629

@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.220301
+command_id: 7E0.7E8.220301|f=-2012
 test_cases:
 - expected_values:
     FUSION_MAP_V: 1.35742
