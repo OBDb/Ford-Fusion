@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22030F
+command_id: 7E0.7E8.22030F|f=-2012
 test_cases:
 - expected_values:
     FUSION_CL: 1
