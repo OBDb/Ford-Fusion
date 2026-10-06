@@ -54,7 +54,7 @@
   "signals": [
     {"id": "FUSION_NORM_CUM_DCHG_BAT_OFF", "path": "Battery", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "scalar" }, "name": "Normalized cumulative discharge from battery with engine off"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4027"}, "freq": 3600, "dbgfilter": { "to": 2013, "years": [2015], "from": 2017 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4027"}, "freq": 3600, "dbgfilter": { "to": 2012, "years": [2015], "from": 2017 },
   "signals": [
     {"id": "FUSION_12V_AGE", "path": "Battery", "fmt": { "len": 16, "max": 1572840, "mul": 24, "unit": "hours" }, "name": "12V battery age"}
   ]},
