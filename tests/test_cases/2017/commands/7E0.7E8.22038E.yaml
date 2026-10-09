@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    FUSION_EVAP_RAW: 2152
+  response: 7E80562038E0868
+- expected_values:
+    FUSION_EVAP_RAW: 2172
+  response: 7E80562038E087C
+- expected_values:
+    FUSION_EVAP_RAW: 2187
+  response: 7E80562038E088B
+- expected_values:
+    FUSION_EVAP_RAW: 2212
+  response: 7E80562038E08A4
+- expected_values:
+    FUSION_EVAP_RAW: 2217
+  response: 7E80562038E08A9
+- expected_values:
+    FUSION_EVAP_RAW: 2242
+  response: 7E80562038E08C2
+- expected_values:
+    FUSION_EVAP_RAW: 2277
+  response: 7E80562038E08E5
+- expected_values:
+    FUSION_EVAP_RAW: 2382
+  response: 7E80562038E094E
+- expected_values:
+    FUSION_EVAP_RAW: 2402
+  response: 7E80562038E0962

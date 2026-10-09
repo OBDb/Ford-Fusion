@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    FUSION_CAT_TEMP: 488.8
+  response: 7E80562F43C14A8
+- expected_values:
+    FUSION_CAT_TEMP: 489.7
+  response: 7E80562F43C14B1
+- expected_values:
+    FUSION_CAT_TEMP: 490.7
+  response: 7E80562F43C14BB
+- expected_values:
+    FUSION_CAT_TEMP: 491.8
+  response: 7E80562F43C14C6
+- expected_values:
+    FUSION_CAT_TEMP: 492.8
+  response: 7E80562F43C14D0
+- expected_values:
+    FUSION_CAT_TEMP: 493.8
+  response: 7E80562F43C14DA
+- expected_values:
+    FUSION_CAT_TEMP: 494.7
+  response: 7E80562F43C14E3
+- expected_values:
+    FUSION_CAT_TEMP: 496
+  response: 7E80562F43C14F0
+- expected_values:
+    FUSION_CAT_TEMP: 497.3
+  response: 7E80562F43C14FD
+- expected_values:
+    FUSION_CAT_TEMP: 499
+  response: 7E80562F43C150E

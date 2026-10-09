@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220427
+test_cases:
+- expected_values:
+    FUSION_BPV_OPEN: 1
+  response: 7E804620427FF

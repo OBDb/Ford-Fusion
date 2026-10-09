@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 60.07812
+  response: 7E8056205FC0F05
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 60.71875
+  response: 7E8056205FC0F2E
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 61.5625
+  response: 7E8056205FC0F64
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 62.20312
+  response: 7E8056205FC0F8D
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 63.26562
+  response: 7E8056205FC0FD1
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 64.125
+  response: 7E8056205FC1008
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 64.96875
+  response: 7E8056205FC103E
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 65.82812
+  response: 7E8056205FC1075
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 66.6875
+  response: 7E8056205FC10AC
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 67.95312
+  response: 7E8056205FC10FD

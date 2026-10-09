@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    FUSION_HPFP_DES: 4220
+  response: 7E8056203DC01A6
+- expected_values:
+    FUSION_HPFP_DES: 4240
+  response: 7E8056203DC01A8
+- expected_values:
+    FUSION_HPFP_DES: 4270
+  response: 7E8056203DC01AB
+- expected_values:
+    FUSION_HPFP_DES: 4280
+  response: 7E8056203DC01AC
+- expected_values:
+    FUSION_HPFP_DES: 4320
+  response: 7E8056203DC01B0
+- expected_values:
+    FUSION_HPFP_DES: 4360
+  response: 7E8056203DC01B4
+- expected_values:
+    FUSION_HPFP_DES: 4370
+  response: 7E8056203DC01B5
+- expected_values:
+    FUSION_HPFP_DES: 4380
+  response: 7E8056203DC01B6
+- expected_values:
+    FUSION_HPFP_DES: 4430
+  response: 7E8056203DC01BB

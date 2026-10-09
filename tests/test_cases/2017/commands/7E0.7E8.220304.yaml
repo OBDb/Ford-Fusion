@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    FUSION_CMD_GEN_V: 14.88742
+  response: 7E805620304772B

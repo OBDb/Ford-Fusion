@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.4969
+  response: 7E80762F4347EBF7FF8
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.5103
+  response: 7E80762F4347EDD7FFB
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.54381
+  response: 7E80762F4347F287FFC
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.56258
+  response: 7E80762F4347F527FFE
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.56883
+  response: 7E80762F4347F607FFD
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.56928
+  response: 7E80762F4347F617FFE
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.57687
+  response: 7E80762F4347F727FFF
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.75871
+  response: 7E80762F43481098006
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.83065
+  response: 7E80762F43481AA8008
+- expected_values:
+    FUSION_AIR_FUEL_RAT: 14.84941
+  response: 7E80762F43481D48009

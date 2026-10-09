@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22057D
+test_cases:
+- expected_values:
+    FUSION_AAT_ALT: 21
+  response: 7E80462057D7A

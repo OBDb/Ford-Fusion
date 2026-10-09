@@ -4,5 +4,8 @@ test_cases:
     FUSION_12V_T: 34
   response: 72E046240294A
 - expected_values:
+    FUSION_12V_T: 40
+  response: '72E0462402950'
+- expected_values:
     FUSION_12V_T: 51
   response: 72E046240295B

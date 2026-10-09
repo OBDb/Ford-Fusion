@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220466
+test_cases:
+- expected_values:
+    FUSION_TIP_DES_ABS: 13.94318
+  response: 7E805620466313A
+- expected_values:
+    FUSION_TIP_DES_ABS: 13.94429
+  response: 7E805620466313B

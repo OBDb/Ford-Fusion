@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22038B
+test_cases:
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: 0
+  response: 7E80462038B00
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.70312
+  response: 7E80462038BD3
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.46875
+  response: 7E80462038BE2
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.39062
+  response: 7E80462038BE7
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.34375
+  response: 7E80462038BEA
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.21875
+  response: 7E80462038BF2
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.17188
+  response: 7E80462038BF5
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.15625
+  response: 7E80462038BF6
+- expected_values:
+    FUSION_PCM_MISF_ACCEL_CYL4_NORM: -0.14062
+  response: 7E80462038BF7

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.02246
+  response: 7E80562054D0C17
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.02734
+  response: 7E80562054D0C1C
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.03223
+  response: 7E80562054D0C21
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.125
+  response: 7E80562054D0C80
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.16895
+  response: 7E80562054D0CAD
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.17383
+  response: 7E80562054D0CB2
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.18359
+  response: 7E80562054D0CBC
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.21777
+  response: 7E80562054D0CDF
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.22266
+  response: 7E80562054D0CE4

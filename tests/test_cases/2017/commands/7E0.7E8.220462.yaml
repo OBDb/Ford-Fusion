@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    FUSION_WGDC: 94.9646
+  response: 7E805620462798E
+- expected_values:
+    FUSION_WGDC: 95.09888
+  response: 7E80562046279BA
+- expected_values:
+    FUSION_WGDC: 95.12939
+  response: 7E80562046279C4
+- expected_values:
+    FUSION_WGDC: 95.13855
+  response: 7E80562046279C7
+- expected_values:
+    FUSION_WGDC: 95.17212
+  response: 7E80562046279D2
+- expected_values:
+    FUSION_WGDC: 95.19958
+  response: 7E80562046279DB
+- expected_values:
+    FUSION_WGDC: 95.20264
+  response: 7E80562046279DC
+- expected_values:
+    FUSION_WGDC: 95.3064
+  response: 7E80562046279FE
+- expected_values:
+    FUSION_WGDC: 95.30945
+  response: 7E80562046279FF

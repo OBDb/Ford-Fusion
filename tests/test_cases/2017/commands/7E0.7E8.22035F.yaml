@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    FUSION_RO2_V: 0.74219
+  response: 7E80562035F02F8
+- expected_values:
+    FUSION_RO2_V: 0.75684
+  response: 7E80562035F0307
+- expected_values:
+    FUSION_RO2_V: 0.76172
+  response: 7E80562035F030C
+- expected_values:
+    FUSION_RO2_V: 0.7666
+  response: 7E80562035F0311
+- expected_values:
+    FUSION_RO2_V: 0.77148
+  response: 7E80562035F0316
+- expected_values:
+    FUSION_RO2_V: 0.78125
+  response: 7E80562035F0320
