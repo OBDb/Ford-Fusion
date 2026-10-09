@@ -1,0 +1,5 @@
+command_id: 726.72E.224026
+test_cases:
+- expected_values:
+    FUSION_NORM_CUM_DCHG_BAT_OFF: 4.4
+  response: 72E05624026002C

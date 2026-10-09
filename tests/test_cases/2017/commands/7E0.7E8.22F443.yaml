@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    FUSION_ENG_LOAD_ACT: 16.47059
+  response: 7E80562F443002A
+- expected_values:
+    FUSION_ENG_LOAD_ACT: 75.29412
+  response: 7E80562F44300C0

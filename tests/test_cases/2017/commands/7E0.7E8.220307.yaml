@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    FUSION_LPFP_DUTY: 24.98169
+  response: 7E8056203071FFA
+- expected_values:
+    FUSION_LPFP_DUTY: 24.99695
+  response: 7E8056203071FFF
+- expected_values:
+    FUSION_LPFP_DUTY: 25.01526
+  response: '7E8056203072005'
+- expected_values:
+    FUSION_LPFP_DUTY: 31.26526
+  response: '7E8056203072805'
