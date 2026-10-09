@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    FUSION_HPFP_V: 1.00196
+  response: 7E80562032400CD
+- expected_values:
+    FUSION_HPFP_V: 1.24145
+  response: 7E80562032400FE
+- expected_values:
+    FUSION_HPFP_V: 1.261
+  response: '7E8056203240102'

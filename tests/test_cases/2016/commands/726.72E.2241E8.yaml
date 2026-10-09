@@ -16,5 +16,8 @@ test_cases:
     FUSION_VEH_BAT_B_V: 13.7
   response: 72E046241E89A
 - expected_values:
+    FUSION_VEH_BAT_B_V: 13.9
+  response: 72E046241E89E
+- expected_values:
     FUSION_VEH_BAT_B_V: 14.1
   response: 72E046241E8A2

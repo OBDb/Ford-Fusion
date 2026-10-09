@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220461
+test_cases:
+- expected_values:
+    FUSION_CAT: -17.57812
+  response: 7E805620461059B
+- expected_values:
+    FUSION_CAT: -4.03125
+  response: 7E80562046108FE
+- expected_values:
+    FUSION_CAT: 0.1875
+  response: 7E8056204610A0C

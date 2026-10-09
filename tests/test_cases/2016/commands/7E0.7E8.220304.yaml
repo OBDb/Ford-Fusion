@@ -4,5 +4,8 @@ test_cases:
     FUSION_CMD_GEN_V: 13.8958
   response: 7E8056203046F3B
 - expected_values:
+    FUSION_CMD_GEN_V: 14.15444
+  response: 7E805620304714D
+- expected_values:
     FUSION_CMD_GEN_V: 14.29596
   response: 7E805620304726F

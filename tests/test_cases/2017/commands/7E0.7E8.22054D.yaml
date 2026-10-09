@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.02246
+  response: 7E80562054D0C17
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.75488
+  response: 7E80562054D0F05
+- expected_values:
+    FUSION_LPFP_SENS_V: 3.98438
+  response: 7E80562054D0FF0
