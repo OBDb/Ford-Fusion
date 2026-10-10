@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    FUSION_WGDC: 24.52393
+  response: 7E8056204621F64
+- expected_values:
+    FUSION_WGDC: 25.7782
+  response: 7E80562046220FF
+- expected_values:
+    FUSION_WGDC: 85.96802
+  response: 7E8056204626E0A
+- expected_values:
+    FUSION_WGDC: 96.60339
+  response: 7E8056204627BA7

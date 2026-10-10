@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    FUSION_DIST_DTC_CLR: 56240
+  response: 7E80562F431DBB0
+- expected_values:
+    FUSION_DIST_DTC_CLR: 56241
+  response: 7E80562F431DBB1
+- expected_values:
+    FUSION_DIST_DTC_CLR: 56242
+  response: 7E80562F431DBB2
+- expected_values:
+    FUSION_DIST_DTC_CLR: 56243
+  response: 7E80562F431DBB3
+- expected_values:
+    FUSION_DIST_DTC_CLR: 56244
+  response: 7E80562F431DBB4
+- expected_values:
+    FUSION_DIST_DTC_CLR: 56245
+  response: 7E80562F431DBB5
+- expected_values:
+    FUSION_DIST_DTC_CLR: 56246
+  response: 7E80562F431DBB6

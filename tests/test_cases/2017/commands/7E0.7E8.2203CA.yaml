@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203CA
+test_cases:
+- expected_values:
+    FUSION_MCT: 67
+  response: 7E8046203CA43
+- expected_values:
+    FUSION_MCT: 94
+  response: 7E8046203CA5E

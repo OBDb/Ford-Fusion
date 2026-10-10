@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    FUSION_AAT_V: 2.59531
+  response: 7E8056203BA0213
+- expected_values:
+    FUSION_AAT_V: 2.93744
+  response: 7E8056203BA0259

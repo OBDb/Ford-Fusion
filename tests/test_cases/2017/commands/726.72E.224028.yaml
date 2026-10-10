@@ -1,0 +1,8 @@
+command_id: 726.72E.224028
+test_cases:
+- expected_values:
+    FUSION_12V_SOC: 75
+  response: 72E046240284B
+- expected_values:
+    FUSION_12V_SOC: 76
+  response: 72E046240284C
