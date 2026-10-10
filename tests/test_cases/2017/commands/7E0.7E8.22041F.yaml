@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22041F
+test_cases:
+- expected_values:
+    FUSION_LPFP_DES: 68.295
+  response: 7E80462041F9D
+- expected_values:
+    FUSION_LPFP_DES: 84.825
+  response: 7E80462041FC3
+- expected_values:
+    FUSION_LPFP_DES: 85.26
+  response: 7E80462041FC4
+- expected_values:
+    FUSION_LPFP_DES: 85.695
+  response: 7E80462041FC5
+- expected_values:
+    FUSION_LPFP_DES: 86.13
+  response: 7E80462041FC6

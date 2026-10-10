@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    FUSION_HPFP_DES: 3510
+  response: 7E8056203DC015F
+- expected_values:
+    FUSION_HPFP_DES: 5120
+  response: 7E8056203DC0200
+- expected_values:
+    FUSION_HPFP_DES: 7670
+  response: 7E8056203DC02FF
+- expected_values:
+    FUSION_HPFP_DES: 10330
+  response: 7E8056203DC0409

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    FUSION_ETC_TRIM_LRN: 0.08984
+  response: 7E805620338002E
+- expected_values:
+    FUSION_ETC_TRIM_LRN: 0.33008
+  response: 7E80562033800A9
+- expected_values:
+    FUSION_ETC_TRIM_LRN: 0.51172
+  response: '7E8056203380106'

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    FUSION_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    FUSION_VCT_EXH_DUTY: 45.3125
+  response: 7E8056203173A00
+- expected_values:
+    FUSION_VCT_EXH_DUTY: 45.95337
+  response: 7E8056203173AD2
