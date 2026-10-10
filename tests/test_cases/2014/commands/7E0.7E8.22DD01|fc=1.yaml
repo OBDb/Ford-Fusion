@@ -7,5 +7,5 @@ test_cases:
     FUSION_ODO: 119073
   response: 7E80662DD0101D121
 - expected_values:
-    FUSION_ODO: 119155
-  response: 7E80662DD0101D173
+    FUSION_ODO: 119158
+  response: 7E80662DD0101D176
