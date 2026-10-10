@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 60.07812
+  response: 7E8056205FC0F05
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 67.95312
+  response: 7E8056205FC10FD
+- expected_values:
+    FUSION_PCM_CYL_HEAD_T_SENS_2_RAW: 101.28125
+  response: 7E8056205FC1952
