@@ -739,7 +739,7 @@
   "signals": [
     {"id": "FUSION_DTC_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "DTC counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2012, "years": [2018] },
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "filter": { "from": 2013 }, "dbgfilter": { "years": [2018] },
   "signals": [
     {"id": "FUSION_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
