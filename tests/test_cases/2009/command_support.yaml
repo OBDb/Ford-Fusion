@@ -50,7 +50,7 @@ unsupported_commands_by_ecu:
   "7E0":
   - 7E0.0111:TP
   - 7E0.0147:TP_B
-  - 7E0.7E8.22DD01|fc=1:FUSION_ODO
+  - 7E0.7E8.22DD01
   "7E1":
   - 7E1.7E9.0104
   - 7E1.7E9.0105

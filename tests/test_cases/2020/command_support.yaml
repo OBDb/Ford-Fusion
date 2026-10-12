@@ -32,7 +32,7 @@ supported_commands_by_ecu:
   - 0144:EQ_RAT
   - 0145:TP_R
   - 0146:AAT
-  - 7E0.7E8.22DD01|fc=1:FUSION_ODO
+  - 7E0.7E8.22DD01|fc=1,f=2013-:FUSION_ODO
 unsupported_commands_by_ecu:
   "726":
   - 726.72E.222813|fc=1:FUSION_TP_FL

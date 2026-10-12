@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22DD01|fc=1
+command_id: 7E0.7E8.22DD01|fc=1,f=2013-
 test_cases:
 - expected_values:
     FUSION_ODO: 255323
