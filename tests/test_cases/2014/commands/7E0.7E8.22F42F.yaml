@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    FUSION_FLI_7E0: 53.33333
-  response: 7E80462F42F88
+    FUSION_FLI_7E0: 49.01961
+  response: 7E80462F42F7D
 - expected_values:
     FUSION_FLI_7E0: 98.43137
   response: 7E80462F42FFB
