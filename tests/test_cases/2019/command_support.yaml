@@ -55,3 +55,5 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   "7E0":
   - 7E0.7E8.2211B5:FUSION_TRANS_OUTPUT_SHFT
+  "7E1":
+  - 7E1.7E9.221E3F:FUSION_ATF_T_VAR_5
