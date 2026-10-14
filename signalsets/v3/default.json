@@ -105,7 +105,7 @@
   "signals": [
     {"id": "FUSION_BAT_ST_DETECTION", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Battery state detection status"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "423C"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015], "from": 2018 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "423C"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2018], "from": 2020 },
   "signals": [
     {"id": "FUSION_VEH_BAT_B_CURRENT", "path": "Battery", "fmt": { "len": 16, "max": 1023.96, "min": -1024, "div": 32, "sign": true, "unit": "amps" }, "name": "Second battery current"}
   ]},

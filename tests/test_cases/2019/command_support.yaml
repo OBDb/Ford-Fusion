@@ -5,6 +5,7 @@ supported_commands_by_ecu:
   - 726.72E.222814|fc=1:FUSION_TP_FR
   - 726.72E.222815|fc=1:FUSION_TP_RR
   - 726.72E.222816|fc=1:FUSION_TP_RL
+  - 726.72E.22423C:FUSION_VEH_BAT_B_CURRENT
   "7DF":
   - 7DF.0106
   "7E0":

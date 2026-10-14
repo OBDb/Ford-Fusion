@@ -1,0 +1,8 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 3.6875
+  response: 72E0562423C0076
+- expected_values:
+    FUSION_VEH_BAT_B_CURRENT: 9.21875
+  response: 72E0562423C0127
