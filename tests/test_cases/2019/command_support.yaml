@@ -55,6 +55,8 @@ supported_commands_by_ecu:
   - 7E0.7E8.220388:FUSION_PCM_MISF_ACCEL_CYL2_NORM
   - 7E0.7E8.22DD01|fc=1,f=2013-:FUSION_ODO
 unsupported_commands_by_ecu:
+  "720":
+  - 720.728.226185:FUSION_FLI
   "726":
   - 726.72E.224090:FUSION_BAT_CURRENT_726
   "7E0":
