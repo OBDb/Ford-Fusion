@@ -51,6 +51,7 @@ supported_commands_by_ecu:
   - 7E0.0131:CLR_DIST
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
   - 7E0.0144:EQ_RAT
+  - 7E0.7E8.220388:FUSION_PCM_MISF_ACCEL_CYL2_NORM
   - 7E0.7E8.22DD01|fc=1,f=2013-:FUSION_ODO
 unsupported_commands_by_ecu:
   "7E0":
