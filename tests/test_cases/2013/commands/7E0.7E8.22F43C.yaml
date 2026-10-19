@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    FUSION_CAT_TEMP: 558.8
+  response: 7E80562F43C1764
+- expected_values:
+    FUSION_CAT_TEMP: 728
+  response: 7E80562F43C1E00
+- expected_values:
+    FUSION_CAT_TEMP: 753.5
+  response: 7E80562F43C1EFF
+- expected_values:
+    FUSION_CAT_TEMP: 860.2
+  response: 7E80562F43C232A

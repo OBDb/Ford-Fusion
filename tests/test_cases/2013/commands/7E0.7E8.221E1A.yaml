@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E1A
+test_cases:
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 394
+  response: 7E805621E1A00C5
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 502
+  response: 7E805621E1A00FB
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 522
+  response: 7E805621E1A0105
+- expected_values:
+    FUSION_PCM_CMD_TRANS_MAIN_LINE_P: 1054
+  response: 7E805621E1A020F

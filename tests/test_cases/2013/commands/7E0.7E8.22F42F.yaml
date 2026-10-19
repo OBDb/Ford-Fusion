@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    FUSION_FLI_7E0: 21.17647
+  response: 7E80462F42F36
+- expected_values:
+    FUSION_FLI_7E0: 28.62745
+  response: 7E80462F42F49
+- expected_values:
+    FUSION_FLI_7E0: 30.58824
+  response: 7E80462F42F4E
+- expected_values:
+    FUSION_FLI_7E0: 32.54902
+  response: 7E80462F42F53
+- expected_values:
+    FUSION_FLI_7E0: 33.33333
+  response: 7E80462F42F55
+- expected_values:
+    FUSION_FLI_7E0: 33.72549
+  response: 7E80462F42F56
+- expected_values:
+    FUSION_FLI_7E0: 34.5098
+  response: 7E80462F42F58
+- expected_values:
+    FUSION_FLI_7E0: 34.90196
+  response: 7E80462F42F59
+- expected_values:
+    FUSION_FLI_7E0: 35.68627
+  response: 7E80462F42F5B
+- expected_values:
+    FUSION_FLI_7E0: 36.86275
+  response: 7E80462F42F5E

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    FUSION_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    FUSION_VSS_HD: 27.97656
+  response: 7E8056215050DFD
+- expected_values:
+    FUSION_VSS_HD: 114.39844
+  response: '7E8056215053933'
