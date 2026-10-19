@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    FUSION_RPM: 765.75
+  response: 7E80562F40C0BF7
+- expected_values:
+    FUSION_RPM: 1665.25
+  response: 7E80562F40C1A05
+- expected_values:
+    FUSION_RPM: 1983
+  response: 7E80562F40C1EFC
+- expected_values:
+    FUSION_RPM: 2903.25
+  response: 7E80562F40C2D5D

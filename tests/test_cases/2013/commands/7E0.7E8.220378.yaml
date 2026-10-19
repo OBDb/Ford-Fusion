@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    FUSION_GEN_CTRL: 16.23054
+  response: 7E80562037814C6
+- expected_values:
+    FUSION_GEN_CTRL: 19.74644
+  response: '7E8056203781946'
+- expected_values:
+    FUSION_GEN_CTRL: 29.522
+  response: 7E80562037825C9
+- expected_values:
+    FUSION_GEN_CTRL: 34.98813
+  response: 7E8056203782CC8

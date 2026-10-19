@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 42.95654
+  response: 7E80562116636FC
+- expected_values:
+    FUSION_EVAP_PURGE_CMD: 96.22803
+  response: 7E8056211667B2C
