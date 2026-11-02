@@ -308,7 +308,7 @@
   "signals": [
     {"id": "FUSION_AC_P", "path": "Climate", "fmt": { "len": 16, "max": 1000, "mul": 245251, "div": 845473, "unit": "psi" }, "name": "A/C compressor pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0398"}, "freq": 1, "filter": { "to": 2012, "years": [2017, 2018, 2019] }, "dbgfilter": { "to": 2009, "from": 2011 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0398"}, "freq": 1, "filter": { "to": 2012, "years": [2017, 2018, 2019] }, "dbgfilter": { "to": 2009, "years": [2011] },
   "signals": [
     {"id": "FUSION_PCM_MISF_ACCEL_CYL6_NORM", "path": "Engine", "fmt": { "len": 8, "max": 1.98, "min": -2, "div": 64, "sign": true, "unit": "scalar" }, "name": "Misfire acceleration, cylinder 6"}
   ]},
