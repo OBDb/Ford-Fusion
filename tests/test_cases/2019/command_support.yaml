@@ -69,6 +69,7 @@ supported_commands_by_ecu:
   - 7E0.7E8.2203BC:FUSION_VCT_INT_DES
   - 7E0.7E8.22093C:FUSION_ETC_ANG_ACT
   - 7E0.7E8.22DD01|fc=1,f=2013-:FUSION_ODO
+  - 7E0.7E8.22F40F:FUSION_IAT_ALT2
   - 7E0.7E8.22FD18:FUSION_AC_P_7E0
 unsupported_commands_by_ecu:
   "720":
