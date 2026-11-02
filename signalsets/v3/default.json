@@ -819,7 +819,7 @@
   "signals": [
     {"id": "FUSION_PCM_VEH_ODO", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Vehicle odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "FD18"}, "freq": 1, "dbgfilter": { "to": 2009, "years": [2011, 2012, 2015], "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "FD18"}, "freq": 1, "dbgfilter": { "to": 2009, "years": [2011, 2012, 2015, 2018], "from": 2020 },
   "signals": [
     {"id": "FUSION_AC_P_7E0", "path": "Engine", "fmt": { "len": 8, "max": 3100, "mul": 12.156863, "unit": "kilopascal" }, "name": "Air conditioning pressure"}
   ]},
