@@ -6,8 +6,8 @@ test_cases:
     0104
     7E8034104A6
 - expected_values:
-    LOAD_PCT: 7.84314
-  response: '7E803410414'
+    LOAD_PCT: 7.05882
+  response: '7E803410412'
 - expected_values:
     LOAD_PCT: 98.03922
   response: 7E8034104FA
