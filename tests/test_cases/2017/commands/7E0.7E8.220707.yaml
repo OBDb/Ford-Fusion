@@ -4,5 +4,5 @@ test_cases:
     FUSION_GRILL_SHUT_DC: 76.86275
   response: 7E804620707C4
 - expected_values:
-    FUSION_GRILL_SHUT_DC: 94.5098
-  response: 7E804620707F1
+    FUSION_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

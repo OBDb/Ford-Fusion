@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
+    FUSION_DIST_DTC_CLR: 9752
+  response: 7E80562F4312618
+- expected_values:
     FUSION_DIST_DTC_CLR: 56240
   response: 7E80562F431DBB0
 - expected_values:

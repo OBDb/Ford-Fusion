@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSION_BARO: 14.24836
   response: '7E8056203530189'
+- expected_values:
+    FUSION_BARO: 14.42964
+  response: 7E805620353018E

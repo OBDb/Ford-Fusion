@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSION_OAR: 0.23187
   response: 7E8056203E80ED7
+- expected_values:
+    FUSION_OAR: 0
+  response: 7E8056203E8F689
