@@ -7,8 +7,20 @@ test_cases:
     FUSION_EGR: 83
   response: 7E80462F42C53
 - expected_values:
+    FUSION_EGR: 93
+  response: 7E80462F42C5D
+- expected_values:
     FUSION_EGR: 98
   response: 7E80462F42C62
 - expected_values:
     FUSION_EGR: 100
+  response: 7E80462F42C6B
+- expected_values:
+    FUSION_EGR: 100
+  response: 7E80462F42C7A
+- expected_values:
+    FUSION_EGR: 100
   response: 7E80462F42C8E
+- expected_values:
+    FUSION_EGR: 100
+  response: 7E80462F42CA1
