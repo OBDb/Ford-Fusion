@@ -4,6 +4,12 @@ test_cases:
     FUSION_EGR: 0
   response: 7E80462F42C00
 - expected_values:
+    FUSION_EGR: 14
+  response: 7E80462F42C0E
+- expected_values:
+    FUSION_EGR: 44
+  response: 7E80462F42C2C
+- expected_values:
     FUSION_EGR: 83
   response: 7E80462F42C53
 - expected_values:
