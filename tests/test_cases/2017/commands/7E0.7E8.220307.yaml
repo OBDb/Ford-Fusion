@@ -10,5 +10,5 @@ test_cases:
     FUSION_LPFP_DUTY: 25.01526
   response: '7E8056203072005'
 - expected_values:
-    FUSION_LPFP_DUTY: 31.26526
-  response: '7E8056203072805'
+    FUSION_LPFP_DUTY: 41.93726
+  response: 7E80562030735AE

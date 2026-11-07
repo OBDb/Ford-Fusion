@@ -10,5 +10,5 @@ test_cases:
     FUSION_ECT: 87.96875
   response: 7E80562038F15FE
 - expected_values:
-    FUSION_ECT: 88.17188
-  response: 7E80562038F160B
+    FUSION_ECT: 92.0625
+  response: 7E80562038F1704

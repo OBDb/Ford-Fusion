@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FUSION_KS1_RAW: 173
   response: 7E80562040300AD
+- expected_values:
+    FUSION_KS1_RAW: 277
+  response: '7E8056204030115'

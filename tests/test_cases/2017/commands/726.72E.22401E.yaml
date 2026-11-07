@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FUSION_NORM_CUM_CHG_IGN_ON: 8.7
   response: 72E0562401E0057
+- expected_values:
+    FUSION_NORM_CUM_CHG_IGN_ON: 162.7
+  response: 72E0562401E065B

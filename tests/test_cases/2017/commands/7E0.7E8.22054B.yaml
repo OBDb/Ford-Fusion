@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FUSION_PCM_ENG_OIL_LIFE_REM: 50
   response: 7E80462054B32
+- expected_values:
+    FUSION_PCM_ENG_OIL_LIFE_REM: 83
+  response: 7E80462054B53
